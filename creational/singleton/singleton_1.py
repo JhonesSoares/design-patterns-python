@@ -31,4 +31,3 @@ if __name__ == "__main__":
     print(as1.tema)
 
     as2 = AppSettings()
-    print(as1.tema)
